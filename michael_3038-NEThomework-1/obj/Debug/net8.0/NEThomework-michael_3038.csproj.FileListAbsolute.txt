@@ -1,0 +1,14 @@
+E:\JR bootcamp fullstack-net\lecture-15 NET intro\C#Programming-Introduction\C#Programming-Introduction\NEThomework-michael_3038\obj\Debug\net8.0\NEThomework-michael_3038.GeneratedMSBuildEditorConfig.editorconfig
+E:\JR bootcamp fullstack-net\lecture-15 NET intro\C#Programming-Introduction\C#Programming-Introduction\NEThomework-michael_3038\obj\Debug\net8.0\NEThomework-michael_3038.AssemblyInfoInputs.cache
+E:\JR bootcamp fullstack-net\lecture-15 NET intro\C#Programming-Introduction\C#Programming-Introduction\NEThomework-michael_3038\obj\Debug\net8.0\NEThomework-michael_3038.AssemblyInfo.cs
+E:\JR bootcamp fullstack-net\lecture-15 NET intro\C#Programming-Introduction\C#Programming-Introduction\NEThomework-michael_3038\obj\Debug\net8.0\NEThomework-michael_3038.csproj.CoreCompileInputs.cache
+E:\JR bootcamp fullstack-net\lecture-15 NET intro\C#Programming-Introduction\C#Programming-Introduction\NEThomework-michael_3038\bin\Debug\net8.0\NEThomework-michael_3038.exe
+E:\JR bootcamp fullstack-net\lecture-15 NET intro\C#Programming-Introduction\C#Programming-Introduction\NEThomework-michael_3038\bin\Debug\net8.0\NEThomework-michael_3038.deps.json
+E:\JR bootcamp fullstack-net\lecture-15 NET intro\C#Programming-Introduction\C#Programming-Introduction\NEThomework-michael_3038\bin\Debug\net8.0\NEThomework-michael_3038.runtimeconfig.json
+E:\JR bootcamp fullstack-net\lecture-15 NET intro\C#Programming-Introduction\C#Programming-Introduction\NEThomework-michael_3038\bin\Debug\net8.0\NEThomework-michael_3038.dll
+E:\JR bootcamp fullstack-net\lecture-15 NET intro\C#Programming-Introduction\C#Programming-Introduction\NEThomework-michael_3038\bin\Debug\net8.0\NEThomework-michael_3038.pdb
+E:\JR bootcamp fullstack-net\lecture-15 NET intro\C#Programming-Introduction\C#Programming-Introduction\NEThomework-michael_3038\obj\Debug\net8.0\NEThomework-michael_3038.dll
+E:\JR bootcamp fullstack-net\lecture-15 NET intro\C#Programming-Introduction\C#Programming-Introduction\NEThomework-michael_3038\obj\Debug\net8.0\refint\NEThomework-michael_3038.dll
+E:\JR bootcamp fullstack-net\lecture-15 NET intro\C#Programming-Introduction\C#Programming-Introduction\NEThomework-michael_3038\obj\Debug\net8.0\NEThomework-michael_3038.pdb
+E:\JR bootcamp fullstack-net\lecture-15 NET intro\C#Programming-Introduction\C#Programming-Introduction\NEThomework-michael_3038\obj\Debug\net8.0\NEThomework-michael_3038.genruntimeconfig.cache
+E:\JR bootcamp fullstack-net\lecture-15 NET intro\C#Programming-Introduction\C#Programming-Introduction\NEThomework-michael_3038\obj\Debug\net8.0\ref\NEThomework-michael_3038.dll
