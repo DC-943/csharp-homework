@@ -1,0 +1,6 @@
+@michael_3038EFWebAPI_HostAddress = http://localhost:5226
+
+GET {{michael_3038EFWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
